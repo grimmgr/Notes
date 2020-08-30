@@ -5,4 +5,4 @@ A simple note taking app.
 Clone the repo to your desktop and run `npm install` to install dependencies.
   
 ## Usage
-![](assets/screencast.gif)
+![](public/assets/screencast.gif)
